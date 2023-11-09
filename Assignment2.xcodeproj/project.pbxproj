@@ -16,6 +16,7 @@
 		B86DA8B12AF4C42000C6EFA3 /* Assignment2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86DA8B02AF4C42000C6EFA3 /* Assignment2Tests.swift */; };
 		B86DA8BB2AF4C42000C6EFA3 /* Assignment2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86DA8BA2AF4C42000C6EFA3 /* Assignment2UITests.swift */; };
 		B86DA8BD2AF4C42000C6EFA3 /* Assignment2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86DA8BC2AF4C42000C6EFA3 /* Assignment2UITestsLaunchTests.swift */; };
+		B86DA8CA2AF4C4A600C6EFA3 /* StaticChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = B86DA8C92AF4C4A600C6EFA3 /* StaticChart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B86DA8B62AF4C42000C6EFA3 /* Assignment2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Assignment2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B86DA8BA2AF4C42000C6EFA3 /* Assignment2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment2UITests.swift; sourceTree = "<group>"; };
 		B86DA8BC2AF4C42000C6EFA3 /* Assignment2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B86DA8C92AF4C4A600C6EFA3 /* StaticChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticChart.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				B86DA8A62AF4C41F00C6EFA3 /* Preview Assets.xcassets */,
+				B86DA8C92AF4C4A600C6EFA3 /* StaticChart.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B86DA8CA2AF4C4A600C6EFA3 /* StaticChart.swift in Sources */,
 				B86DA89F2AF4C41E00C6EFA3 /* Assignment2.xcdatamodeld in Sources */,
 				B86DA89A2AF4C41E00C6EFA3 /* Assignment2App.swift in Sources */,
 				B86DA8A12AF4C41E00C6EFA3 /* ContentView.swift in Sources */,
