@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsSecretStorageType": "files",
+    "hubName": "Comp4097-Assignment",
+    "IOTHubConnectionString": "HostName=Comp4097-Assignment.azure-devices.net",
+    "WebPubSubConnectionString": "Endpoint=https://comp4097.webpubsub.azure.com"
+  },
+  "ConnectionStrings": {}
+}
